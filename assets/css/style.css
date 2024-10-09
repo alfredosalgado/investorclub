@@ -1,0 +1,7 @@
+
+.bgportada {
+  background-image: url("../img/portada2.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:bottom;
+}
